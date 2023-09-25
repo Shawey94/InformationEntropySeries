@@ -3,7 +3,7 @@ This repository will include the code and experimental setup details for the pap
 
 [08/21/2023] Required by a reviewer, we tested on ImageNetV2 and achieved a top 1 accuracy of 84.8% (with LinearQ). We were not lucky that the reviewer required the source code, the pre-trained weights, and settings, but gave a reject after got all our stuff. 
 
-[04/12/2023] Achieved a top 1 accuracy of 95.38% on ImageNet-1K with pre-trained weights on ImageNet-21K.
+[04/12/2023] Achieved a top 1 accuracy of 95.38% (OptimalQ) on ImageNet-1K with pre-trained weights on ImageNet-21K.
 
 Excited to extend the proposed theory for unsupervised learning, generative AI, and more. Work is currently in progress.
 
