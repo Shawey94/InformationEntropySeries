@@ -5,6 +5,6 @@ This repository will include the code and experimental setup details for the pap
 
 [04/12/2023] Achieved a top 1 accuracy of 95.38% (OptimalQ) on ImageNet-1K with pre-trained weights on ImageNet-21K.
 
-Excited to extend the proposed theory for unsupervised learning, generative AI, and more. Work is currently in progress.
+Excited to extend the proposed theory for semi-supervised learning, generative AI, and more. Work is currently in progress.
 
 Research, coding, analysis, and maintenance are all on my own, so quite busy usually. Updates will be made periodically.
