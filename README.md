@@ -1,4 +1,4 @@
-# Information Entropy Series
+# Information Entropy Meets Artificial Intelligence Series
 This repository will include the code and experimental setup details for the paper "Exploring the impact of information entropy change in learning systems" across various learning applications, including classification, domain adaptation, domain generalization, few-shot learning, segmentation, detection, etc.
 
 [09/29/2023] Semi-supervised learning (SSL) work is currently in progress. Excited to extend the proposed theory for SSL, generative AI, and more.
