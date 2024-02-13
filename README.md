@@ -7,7 +7,7 @@ For Image Classification, after a deliberate hyperparameter search, we hit a Top
 
 In Domain Adaptation, we utilized NoisyViT (based on TVT, Yang et al., WACV2023) with Optimal Q and achieved state-of-the-art results on Office-31, Office-Home, and Visda2017 datasets.
 
-For semi-supervised learning, we followed the protocol outlined by Wang et al., NeurIPS2022. Compared to a bunch of Match methods such as FlatMatch, FreeMatch, and FlexMatch, etc. on CIFAR10, CIFAR100, and STL10, our method demonstrated improved performance.
+For semi-supervised learning, we followed the protocol outlined by USB (Wang et al., NeurIPS2022). Compared to a bunch of Match methods such as FlatMatch, FreeMatch, and FlexMatch, etc. on CIFAR10, CIFAR100, and STL10, our method demonstrated improved performance.
 
 The applications of positive noise in large language models (LLMs) have been accepted in AI venues, and we observe more and more submissions on the way. Some of the coauthors served as reviewers at ICML 2024, and it's interesting to see submissions that utilize our methodology to do operations on embeddings.
 
